@@ -10,6 +10,6 @@ By 传说中的 6866 房管宇宙暴龙大皇帝无敌奇拉比公式大王
 
 ---
 功能：禁选忍者（批量）添加删除、搜索已禁选的忍者、添加规则、转盘
- url['https://github.com/kotlinnut/ninja-manager/blob/main/7d71191353dfc000d0c1f9781d3178da.png']
+![示例图片](https://github.com/kotlinnut/ninja-manager/blob/main/7d71191353dfc000d0c1f9781d3178da.png)
 
 
